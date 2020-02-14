@@ -11,3 +11,10 @@
   bottom: 10px;
   right: 10px;
 }
+
+.season-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
