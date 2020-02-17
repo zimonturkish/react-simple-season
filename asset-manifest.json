@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-simple-season/static/css/main.2f2246de.chunk.css",
+    "main.js": "/react-simple-season/static/js/main.2804a68b.chunk.js",
+    "main.js.map": "/react-simple-season/static/js/main.2804a68b.chunk.js.map",
+    "runtime-main.js": "/react-simple-season/static/js/runtime-main.2593891e.js",
+    "runtime-main.js.map": "/react-simple-season/static/js/runtime-main.2593891e.js.map",
+    "static/js/2.8d0e5624.chunk.js": "/react-simple-season/static/js/2.8d0e5624.chunk.js",
+    "static/js/2.8d0e5624.chunk.js.map": "/react-simple-season/static/js/2.8d0e5624.chunk.js.map",
+    "index.html": "/react-simple-season/index.html",
+    "precache-manifest.7924819489b19eb280f8b381b31ace6c.js": "/react-simple-season/precache-manifest.7924819489b19eb280f8b381b31ace6c.js",
+    "service-worker.js": "/react-simple-season/service-worker.js",
+    "static/css/main.2f2246de.chunk.css.map": "/react-simple-season/static/css/main.2f2246de.chunk.css.map",
+    "static/js/2.8d0e5624.chunk.js.LICENSE.txt": "/react-simple-season/static/js/2.8d0e5624.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2593891e.js",
+    "static/js/2.8d0e5624.chunk.js",
+    "static/css/main.2f2246de.chunk.css",
+    "static/js/main.2804a68b.chunk.js"
+  ]
+}
